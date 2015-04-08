@@ -1,0 +1,12 @@
+{
+  "name" : "Dannyfingers",
+  "version" : "0.1.0",
+  "dependencies" : {
+    "express" : "latest",
+    "gulp" : "latest",
+    "mongoose" : "latest",
+    "moment" : "latest",
+    "lodash" : "latest"
+
+  }
+}
